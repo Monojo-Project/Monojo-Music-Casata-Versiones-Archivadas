@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Monojo Music
+Comment=Reproductor de música offline Monojo
+Exec=monojo-music
+Icon=/usr/share/icons/Monojo/amarillo.png
+Terminal=false
+Categories=AudioVideo;Player;
+StartupNotify=true
+StartupWMClass=monojo_music_main
